@@ -25,9 +25,6 @@ A collection of Python applications demonstrating programming fundamentals, API 
 ![](https://streak-stats.demolab.com/?user=Shabadg2008&theme=dark&hide_border=false&cache=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shabadg2008&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://komarev.com/ghpvc/?username=Shabadg2008&icon=0&color=0)](https://visitcount.itsvg.in)
 
